@@ -6,7 +6,7 @@ Bot WhatsApp otomatis berbasis [Baileys](https://github.com/WhiskeySockets/Baile
 
 ## 📸 Logo
 
-![Logo FINYRA](download/logo.jpeg)
+![Logo FINYRA](logo/logo.jpeg)
 
 ---
 
