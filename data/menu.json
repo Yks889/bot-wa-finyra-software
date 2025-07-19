@@ -1,0 +1,14 @@
+{
+  "Umum": [
+    ".menu - Menampilkan daftar menu",
+    ".help - Bantuan penggunaan bot",
+    ".owner - Info pemilik bot",
+    ".cinta - Cek presentase cinta 💘",
+    ".special-woment - This is my own"
+  ],
+  "Harga & Pemesanan": [
+    ".list-harga - Lihat daftar harga jasa",
+    ".pesan <id> x<jumlah> - Kirim pemesanan ke admin"
+  ]
+}
+

@@ -1,0 +1,37 @@
+[
+  {
+    "id": "FD01",
+    "nama": "Desain Feed Instagram",
+    "harga": "Rp 10.000",
+    "kategori": "Desain",
+    "tersedia": true
+  },
+  {
+    "id": "LG01",
+    "nama": "Desain Logo",
+    "harga": "Rp 15.000",
+    "kategori": "Desain",
+    "tersedia": true
+  },
+  {
+    "id": "BN01",
+    "nama": "Desain Banner",
+    "harga": "Rp 12.000",
+    "kategori": "Desain",
+    "tersedia": true
+  },
+  {
+    "id": "WEB01",
+    "nama": "Landing Page Produk",
+    "harga": "Rp 50.000",
+    "kategori": "Website",
+    "tersedia": true
+  },
+  {
+    "id": "WEB02",
+    "nama": "Toko Online",
+    "harga": "Rp 150.000",
+    "kategori": "Website",
+    "tersedia": false
+  }
+]
